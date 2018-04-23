@@ -16,11 +16,13 @@ Easily use your phone camera and capture the cell image under Mykroscope, then s
 /****************************************************************************************************************
 
 Coming up on 1st August 2018....
+
 Our team aim to enlarge the tiny world by building a micro biology community.
 To do that, we wish to gather more cell pictures to begin the learning process.
 We would like to gather cells images on our facebook page,
 
 at the moment,
+
 our team is developing a mobile app to ease the sharing process,
 you will have an in app camera that allow all the captured images to be auto uploaded to the facebook page,
 
