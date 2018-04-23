@@ -6,8 +6,11 @@ Easily use your phone camera and capture the cell image under Mykroscope, then s
 
 1) Download the blueprint in "Cutting Files" folder
 2) Follow the Mykroscope Manual to build your Mykroscope.
+
     *** View Mykroscope BOM spreadsheet for the component list ***
+    
 3) Launch your camera, place it on top on the Mykroscope and start your discoveries.
+
     ***  Visit www.mykroscope.com for more information. ***
 
 /****************************************************************************************************************
